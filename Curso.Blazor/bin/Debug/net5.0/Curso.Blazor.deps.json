@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Curso.Blazor/1.0.0": {
         "dependencies": {
+          "CursoBlazor.Entidades": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -322,6 +323,14 @@
         },
         "compile": {
           "Curso.Blazor.dll": {}
+        }
+      },
+      "CursoBlazor.Entidades/1.0.0": {
+        "runtime": {
+          "CursoBlazor.Entidades.dll": {}
+        },
+        "compile": {
+          "CursoBlazor.Entidades.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2026,6 +2035,11 @@
   },
   "libraries": {
     "Curso.Blazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoBlazor.Entidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

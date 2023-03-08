@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "CursoBlazor.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CursoBlazor.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CursoBlazor.Entidades.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CursoBlazor.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../CursoBlazor.Entidades/CursoBlazor.Entidades.csproj",
+      "msbuildProject": "../CursoBlazor.Entidades/CursoBlazor.Entidades.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "CursoBlazor.Entidades >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Usuario\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Usuario\\source\\repos\\Curso.Blazor\\CursoBlazor.Entidades\\CursoBlazor.Entidades.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\Curso.Blazor\\CursoBlazor.Entidades\\CursoBlazor.Entidades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

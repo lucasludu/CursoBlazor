@@ -1,0 +1,22 @@
+﻿@page "/listaAlumnos"
+@inherits ListaAlumnosBase
+
+<h3>ListaAlumnos</h3>
+
+<div class="card-deck">
+    @foreach(var alumnos in Alumnos)
+    {
+        <div class="card m-3" style="min-width: 18rem; max-width: 30.5%; min-height: 26rem;">
+            <div class="card-header">
+                <h3>@alumnos.Nombre</h3>
+            </div>
+            <img class="card-img-top imageThumbnail" src="@alumnos.Foto" />
+            <div class="card-footer text-center">
+                <a href="#" class="btn btn-primary m-1">Cursos</a>
+                <a href="#" class="btn btn-primary m-1">Ver</a>
+                <a href="#" class="btn btn-primary m-1">Editar</a>
+                <a href="#" class="btn btn-danger m-1">Borrar</a>
+            </div>
+        </div>
+    }
+</div>

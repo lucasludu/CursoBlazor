@@ -17,8 +17,6 @@ C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.B
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.Blazor.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.Blazor.RazorComponent.input.cache
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
@@ -30,8 +28,6 @@ C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.B
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.Blazor.TagHelpers.output.cache
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.Blazor.RazorCoreGenerate.cache
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Razor\App.razor.g.cs
-C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
@@ -61,3 +57,7 @@ C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.B
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.Blazor.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\ref\Curso.Blazor.dll
 C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Curso.Blazor.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\bin\Debug\net5.0\CursoBlazor.Entidades.dll
+C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\bin\Debug\net5.0\CursoBlazor.Entidades.pdb
+C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\RazorDeclaration\Shared\ListaAlumnos.razor.g.cs
+C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\obj\Debug\net5.0\Razor\Shared\ListaAlumnos.razor.g.cs

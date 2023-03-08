@@ -83,6 +83,7 @@ using Curso.Blazor.Shared;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Components.RouteAttribute("/")]
+    [global::Microsoft.AspNetCore.Components.RouteAttribute("/index")]
     public partial class Index : global::Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

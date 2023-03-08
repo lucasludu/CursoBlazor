@@ -90,7 +90,7 @@ using Curso.Blazor.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\Shared\NavMenu.razor"
+#line 23 "C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

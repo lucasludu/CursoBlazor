@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Curso.Blazor.Pages
+namespace Curso.Blazor.Shared
 {
     #line hidden
     using System;
@@ -82,35 +82,14 @@ using Curso.Blazor.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 3 "C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\Pages\FetchData.razor"
-using Curso.Blazor.Data;
-
-#line default
-#line hidden
-#nullable disable
-    [global::Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
-    public partial class FetchData : global::Microsoft.AspNetCore.Components.ComponentBase
+    [global::Microsoft.AspNetCore.Components.RouteAttribute("/listaAlumnos")]
+    public partial class ListaAlumnos : ListaAlumnosBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(global::Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 39 "C:\Users\Usuario\source\repos\Curso.Blazor\Curso.Blazor\Pages\FetchData.razor"
-       
-    private WeatherForecast[] forecasts;
-
-    protected override async Task OnInitializedAsync()
-    {
-        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
-    }
-
-#line default
-#line hidden
-#nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private WeatherForecastService ForecastService { get; set; }
     }
 }
 #pragma warning restore 1591
